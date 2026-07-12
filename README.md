@@ -1,5 +1,7 @@
 # Gene Requests
 
+<img width="1424" height="797" alt="Screenshot 2026-07-12 at 1 25 42 PM" src="https://github.com/user-attachments/assets/88ed73ff-ea07-4cc8-b360-e8207aec75c9" />
+
 ## Description
 The **Gene Requests** project is a data analysis tool designed to analyze microarray gene expression tracking matrices directly from public repositories and the NCBI Gene Expression Omnibus (GEO). 
 
