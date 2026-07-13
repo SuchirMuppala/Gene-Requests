@@ -1,12 +1,12 @@
 # Gene Requests
 
-<img width="1424" height="797" alt="Screenshot 2026-07-12 at 1 25 42 PM" src="https://github.com/user-attachments/assets/88ed73ff-ea07-4cc8-b360-e8207aec75c9" />
+<img width="1425" height="808" alt="Screenshot 2026-07-13 at 4 43 38 PM" src="https://github.com/user-attachments/assets/b79b22ee-b2fd-4ca2-9a06-612f18b12a48" />
 
 ## Description
 The **Gene Requests** project is a data analysis tool designed to analyze microarray gene expression tracking matrices directly from public repositories and the NCBI Gene Expression Omnibus (GEO). 
 
 ## Features
-* **Data Fetching**: Interacts with online data resources and includes pathways to accommodate for shifted GitHub repositories, branch updates, or structural changes.
 * **Matrix Parsing**: Reads and cleans large microarray expression tracking matrices into Pandas DataFrames.
-* **NCBI GEO Integration**: Uses data queries to interact with the NCBI Gene Expression Omnibus via series matrix accessions
-* **Error Handling**: Contains built-in checks to handle inconsistent data types, tracking logs, and missing table data or fragments
+* **NCBI GEO Integration**: Interacts with the NCBI Gene Expression Omnibus via series matrix accessions.
+* **Output**: Returns data based on user-input human gene symbols and GDS IDs.
+* **Error Handling**: Contains built-in checks to handle inconsistent data types, tracking logs, and missing table data or fragments.
